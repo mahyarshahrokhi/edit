@@ -1025,6 +1025,7 @@
 * [Sepehr](https://sepehrtv.ir/) - Live TV
 * [ParsaTV](https://www.parsatv.com/) - Live TV
 * [MusicGeek](https://musicgeek.ir/) - Music
+* [yekmusic](https://yekmusic.com/) - Music / MP3
 * [VMusic](https://vmusic.ir/) - Music
 * [mytehranmusic](https://mytehranmusic.com/) - Music
 * [Awesome Persian Podcasts](https://github.com/ashkanRmk/awesome-persian-podcasts) - Podcasts
